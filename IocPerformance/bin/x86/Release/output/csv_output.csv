@@ -1,0 +1,7 @@
+Single thread
+Container,Version,Singleton,Transient,Combined,Complex,Prepare And Register And Simple Resolve,Prepare And Register
+ä,1,10,24,70,97,9092,6800
+
+Multiple threads
+Container,Version,Singleton,Transient,Combined,Complex,Prepare And Register And Simple Resolve,Prepare And Register
+ä,1,72,78,102,135,0,0

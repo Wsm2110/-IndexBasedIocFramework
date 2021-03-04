@@ -1,9 +1,0 @@
-C:\Users\bc2scd03\source\repos\SimpleIoc\SimpleIoc\bin\x86\Debug\SimpleIoc.dll
-C:\Users\bc2scd03\source\repos\SimpleIoc\SimpleIoc\bin\x86\Debug\SimpleIoc.pdb
-C:\Users\bc2scd03\source\repos\SimpleIoc\SimpleIoc\obj\x86\Debug\SimpleIoc.csproj.CoreCompileInputs.cache
-C:\Users\bc2scd03\source\repos\SimpleIoc\SimpleIoc\obj\x86\Debug\SimpleIoc.dll
-C:\Users\bc2scd03\source\repos\SimpleIoc\SimpleIoc\obj\x86\Debug\SimpleIoc.pdb
-C:\Users\bc2scd03\source\repos\SimpleIoc\SimpleIoc\bin\x86\Debug\FastExpressionCompiler.dll
-C:\Users\bc2scd03\source\repos\SimpleIoc\SimpleIoc\bin\x86\Debug\FastExpressionCompiler.xml
-C:\Users\bc2scd03\source\repos\SimpleIoc\SimpleIoc\obj\x86\Debug\SimpleIoc.csproj.CopyComplete
-C:\Users\bc2scd03\source\repos\SimpleIoc\SimpleIoc\obj\x86\Debug\SimpleIoc.csprojAssemblyReference.cache

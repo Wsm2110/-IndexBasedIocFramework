@@ -1,7 +1,0 @@
-C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\Wsm.Container\bin\Debug\WSM.Container.dll
-C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\Wsm.Container\bin\Debug\WSM.Container.pdb
-C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\Wsm.Container\bin\Debug\FastExpressionCompiler.dll
-C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\Wsm.Container\obj\Debug\WSM.Container.csproj.CoreCompileInputs.cache
-C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\Wsm.Container\obj\Debug\WSM.Container.csproj.CopyComplete
-C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\Wsm.Container\obj\Debug\WSM.Container.dll
-C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\Wsm.Container\obj\Debug\WSM.Container.pdb

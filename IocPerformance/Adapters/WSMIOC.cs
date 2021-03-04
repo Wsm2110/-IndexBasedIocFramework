@@ -2,16 +2,16 @@
 using IocPerformance.Classes.Dummy;
 using IocPerformance.Classes.Standard;
 using System;
-using SimpleIoc;
-using SimpleIoc.Contracts;
+using WSM.Container;
+using WSM.Container.Contracts;
 
 namespace IocPerformance.Adapters
 {
     public class MadIocAdapter : ContainerAdapterBase
     {
-        SimpleIoc.Container _container;
+        Container _container;
 
-        public override string PackageName => "Wsm.IOC";
+        public override string PackageName => "WSM.Container";
 
         public override string Name => "ä";
 

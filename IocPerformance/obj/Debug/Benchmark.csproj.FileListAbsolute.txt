@@ -1,0 +1,11 @@
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\bin\Debug\IocPerformance.exe.config
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\bin\Debug\IocPerformance.exe
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\bin\Debug\IocPerformance.pdb
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\bin\Debug\FastExpressionCompiler.dll
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\obj\Debug\Benchmark.csprojAssemblyReference.cache
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\obj\Debug\Benchmark.csproj.CoreCompileInputs.cache
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\obj\Debug\Benchmark.csproj.CopyComplete
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\obj\Debug\IocPerformance.exe
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\obj\Debug\IocPerformance.pdb
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\bin\Debug\WSM.Container.dll
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\IocPerformance\bin\Debug\WSM.Container.pdb

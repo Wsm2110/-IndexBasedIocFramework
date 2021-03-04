@@ -1,0 +1,2 @@
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\WSM.Ioc.Unittests\obj\Debug\WSM.Ioc.Unittests.csprojAssemblyReference.cache
+C:\Users\Wiljan\Desktop\Repository\IndexBasedIocFramework\WSM.Ioc.Unittests\obj\Debug\WSM.Ioc.Unittests.csproj.CoreCompileInputs.cache

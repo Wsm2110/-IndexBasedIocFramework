@@ -192,12 +192,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WSM.Ioc\WSM.Ioc.csproj">
-      <Project>{727df9b7-b5f6-4df0-8994-8b1f71c5c7ec}</Project>
-      <Name>WSM.Ioc</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Classes\Conditional\" />
     <Folder Include="Conditional\" />
   </ItemGroup>
@@ -205,6 +199,12 @@
     <PackageReference Include="FastExpressionCompiler">
       <Version>2.0.0</Version>
     </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Wsm.Container\WSM.Container.csproj">
+      <Project>{727df9b7-b5f6-4df0-8994-8b1f71c5c7ec}</Project>
+      <Name>WSM.Container</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

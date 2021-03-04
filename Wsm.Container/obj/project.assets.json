@@ -10,19 +10,6 @@
         "runtime": {
           "lib/net45/FastExpressionCompiler.dll": {}
         }
-      },
-      "WSM.Container/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.7.2",
-        "dependencies": {
-          "FastExpressionCompiler": "2.0.0"
-        },
-        "compile": {
-          "bin/placeholder/WSM.Container.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WSM.Container.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.7.2/win": {
@@ -33,19 +20,6 @@
         },
         "runtime": {
           "lib/net45/FastExpressionCompiler.dll": {}
-        }
-      },
-      "WSM.Container/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.7.2",
-        "dependencies": {
-          "FastExpressionCompiler": "2.0.0"
-        },
-        "compile": {
-          "bin/placeholder/WSM.Container.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WSM.Container.dll": {}
         }
       }
     },
@@ -58,19 +32,6 @@
         "runtime": {
           "lib/net45/FastExpressionCompiler.dll": {}
         }
-      },
-      "WSM.Container/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.7.2",
-        "dependencies": {
-          "FastExpressionCompiler": "2.0.0"
-        },
-        "compile": {
-          "bin/placeholder/WSM.Container.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WSM.Container.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.7.2/win-x86": {
@@ -81,19 +42,6 @@
         },
         "runtime": {
           "lib/net45/FastExpressionCompiler.dll": {}
-        }
-      },
-      "WSM.Container/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.7.2",
-        "dependencies": {
-          "FastExpressionCompiler": "2.0.0"
-        },
-        "compile": {
-          "bin/placeholder/WSM.Container.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WSM.Container.dll": {}
         }
       }
     }
@@ -117,17 +65,11 @@
         "lib/netstandard2.0/FastExpressionCompiler.dll",
         "lib/netstandard2.0/FastExpressionCompiler.xml"
       ]
-    },
-    "WSM.Container/1.0.0": {
-      "type": "project",
-      "path": "../Wsm.Container/WSM.Container.csproj",
-      "msbuildProject": "../Wsm.Container/WSM.Container.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
-      "FastExpressionCompiler >= 2.0.0",
-      "WSM.Container >= 1.0.0"
+      "FastExpressionCompiler >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -136,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wiljan\\Desktop\\Repository\\IndexBasedIocFramework\\IocPerformance\\Benchmark.csproj",
-      "projectName": "Benchmark",
-      "projectPath": "C:\\Users\\Wiljan\\Desktop\\Repository\\IndexBasedIocFramework\\IocPerformance\\Benchmark.csproj",
+      "projectUniqueName": "C:\\Users\\Wiljan\\Desktop\\Repository\\IndexBasedIocFramework\\Wsm.Container\\WSM.Container.csproj",
+      "projectName": "WSM.Container",
+      "projectPath": "C:\\Users\\Wiljan\\Desktop\\Repository\\IndexBasedIocFramework\\Wsm.Container\\WSM.Container.csproj",
       "packagesPath": "C:\\Users\\Wiljan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wiljan\\Desktop\\Repository\\IndexBasedIocFramework\\IocPerformance\\obj\\",
+      "outputPath": "C:\\Users\\Wiljan\\Desktop\\Repository\\IndexBasedIocFramework\\Wsm.Container\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -156,11 +98,7 @@
       },
       "frameworks": {
         "net472": {
-          "projectReferences": {
-            "C:\\Users\\Wiljan\\Desktop\\Repository\\IndexBasedIocFramework\\Wsm.Container\\WSM.Container.csproj": {
-              "projectPath": "C:\\Users\\Wiljan\\Desktop\\Repository\\IndexBasedIocFramework\\Wsm.Container\\WSM.Container.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

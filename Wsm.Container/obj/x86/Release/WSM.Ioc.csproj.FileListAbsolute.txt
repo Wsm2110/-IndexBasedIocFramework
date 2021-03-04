@@ -1,0 +1,7 @@
+C:\Users\Wiljan\Desktop\Wsm.Ioc\WSM.Ioc\bin\x86\Release\WSM.Ioc.dll
+C:\Users\Wiljan\Desktop\Wsm.Ioc\WSM.Ioc\bin\x86\Release\WSM.Ioc.pdb
+C:\Users\Wiljan\Desktop\Wsm.Ioc\WSM.Ioc\bin\x86\Release\FastExpressionCompiler.dll
+C:\Users\Wiljan\Desktop\Wsm.Ioc\WSM.Ioc\obj\x86\Release\WSM.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Wiljan\Desktop\Wsm.Ioc\WSM.Ioc\obj\x86\Release\WSM.Ioc.csproj.CopyComplete
+C:\Users\Wiljan\Desktop\Wsm.Ioc\WSM.Ioc\obj\x86\Release\WSM.Ioc.dll
+C:\Users\Wiljan\Desktop\Wsm.Ioc\WSM.Ioc\obj\x86\Release\WSM.Ioc.pdb
